@@ -1,0 +1,7 @@
+customtkinter
+xgboost
+pandas
+scikit-learn
+beautifulsoup4
+requests
+pillow
